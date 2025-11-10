@@ -1,5 +1,5 @@
 # Bank Account Management System 
-This is a console-based banking system developed in C++ . It allows users to create accounts, deposit and withdraw money, check balances, and display account details.  The system is menu-driven and demonstrates conditional logic, user interaction, and basic account management in C++.
+This is a simple console-based banking system developed in C++ . It allows users to create accounts, deposit and withdraw money, check balances, and display account details.  The system is menu-driven and demonstrates conditional logic, user interaction, and basic account management in C++.
 
 ---
 
